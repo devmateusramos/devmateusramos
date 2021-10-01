@@ -20,5 +20,5 @@
 
 ##
 <div style="background-color: blue">
-Algumas secundárias que tenho dado uma olhada apenas me divertindo por curiosidade e que faço alguns projetos que ocasionalmente estarão aqui são: Golang (principalmente) - Java - C# - Vue.js - Angular -C/ C++(essas eu conheço há uns 5 anos haha mas não estou focado nelas recentemente) - Automação.
+Algumas secundárias que tenho dado uma olhada apenas me divertindo por curiosidade e que faço alguns projetos que ocasionalmente estarão aqui são: Golang (principalmente) - Java - C# - Vue.js - Angular -C/ C++- Automação.
 
