@@ -21,5 +21,5 @@
 
 ##
 <div style="background-color: blue">
-Algumas secundárias que tenho dado uma olhada apenas me divertindo por curiosidade, e que faço alguns projetos que ocasionalmente estarão aqui são: Java - C# - Vue.js - Angular - C/ C++ - Automação.
+Algumas secundárias que fiz poucos projetos ou tenho aprendido aos poucos apenas por curiosidade e diversão que ocasionalmente estarão aqui são: Java - C# - Vue.js - Angular - C/ C++ - Automação.
 
