@@ -19,7 +19,5 @@
   
 </div>
 
-##
-<div style="background-color: blue">
-Algumas secundárias que fiz poucos projetos ou tenho aprendido aos poucos apenas por curiosidade e diversão que ocasionalmente estarão aqui são: Java - C# - Vue.js - Angular - C/ C++ - Automação.
+
 
