@@ -1,4 +1,4 @@
-## Olá! Me chamo Mateus Ramos, sou um desenvolvedor de software.
+## Hi! My name is Mateus Ramos, I'm a Software Engineer from Brazil!
 
 ### Minhas tecnologias principais são:
 <div style="display: inline_block"><br/> 
