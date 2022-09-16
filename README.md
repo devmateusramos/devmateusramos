@@ -1,10 +1,5 @@
 ## Olá! Me chamo Mateus Ramos, sou um desenvolvedor de software.
 
-### Redes sociais para contato:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
-
-##
-
 ### Minhas tecnologias principais são:
 <div style="display: inline_block"><br/> 
   <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
