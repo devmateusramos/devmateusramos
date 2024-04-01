@@ -2,8 +2,8 @@
 <div style="position: relative; max-width: 100%;">
   <img src="https://wallpapers.com/images/featured/solo-leveling-4k-r0x71qsxnuxe7gzo.jpg" alt="Descrição da Imagem" width="100%" height="auto">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(255, 255, 255, 0.7); padding: 20px;">
-    <h1>Seu Nome ou Título</h1>
-    <p>Outras informações sobre você ou seu perfil.</p>
+    <h2>As you can see, I'm a fan of anime.</h2>
+    <h1>I specialize in Kubernetes, GoLang, TypeScript, React, and Next.js. Other technologies in which I also have deep expertise include Java and Python.</h1>
   </div>
 </div>
 ### My main technologies are:
