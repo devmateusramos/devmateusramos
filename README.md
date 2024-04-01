@@ -6,7 +6,6 @@
     <h1>I specialize in Kubernetes, GoLang, TypeScript, React, and Next.js. Other technologies in which I also have deep expertise include Java and Python.</h1>
   </div>
 </div>
-### My main technologies are:
 <div style="display: inline_block"><br/> 
   <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
