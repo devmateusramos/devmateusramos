@@ -21,4 +21,4 @@
 </div>
 
 ## Contact
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/devmateusramos)
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/devmateusramos)!
