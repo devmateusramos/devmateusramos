@@ -1,6 +1,6 @@
 ## Hi! My name is Mateus Ramos, I'm a Senior Software Engineer from Brazil!
-<div style="position: relative;">
-  <img src="https://wallpapers.com/images/featured/solo-leveling-4k-r0x71qsxnuxe7gzo.jpg" alt="Descrição da Imagem" width="100%" height="300px">
+<div style="position: relative; max-width: 100%;">
+  <img src="https://wallpapers.com/images/featured/solo-leveling-4k-r0x71qsxnuxe7gzo.jpg" alt="Descrição da Imagem" width="100%" height="auto">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(255, 255, 255, 0.7); padding: 20px;">
     <h1>Seu Nome ou Título</h1>
     <p>Outras informações sobre você ou seu perfil.</p>
