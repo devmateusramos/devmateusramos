@@ -4,7 +4,7 @@
   <img src="https://wallpapers.com/images/featured/solo-leveling-4k-r0x71qsxnuxe7gzo.jpg" alt="Solo Leveling image" width="100%" height="auto">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(255, 255, 255, 0.7); padding: 20px;">
     <h3>As you can see, I'm a fan of anime.</h3>
-    <h2>I specialize in GoLang, Kubernetes, TypeScript, React, and Next.js. Other technologies in which I also have deep expertise include Java and Python.</h2>
+    <h2>I'm an experienced expert in GoLang, with over five years of hands-on experience using it to build a wide range of solutions. My expertise in GoLang extends across various domains, including high-demand areas such as financial services, IoT solutions, and more. Additionally, I have proficiency in Kubernetes, TypeScript, React, and Next.js, along with a solid background in Java and Python.</h2>
   </div>
 </div>
 
