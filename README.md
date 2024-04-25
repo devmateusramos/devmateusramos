@@ -2,7 +2,7 @@
 
 ![Golang-printing-lets-go](https://raw.githubusercontent.com/devmateusramos/img/main/go-wpp.png)
 
-I'm an experienced Software Engineer proficient in GoLang, with over five years of hands-on experience using it to build a wide range of solutions. My journey in software development began in 2016, starting with C, and has since expanded to encompass languages like Java, Python, and others. My expertise in GoLang extends across various domains, including building resilient, scalable, and distributed systems for high-demand environments such as financial services, IoT solutions, and more. Additionally, I have proficiency in Kubernetes, TypeScript, React, and Next.js, along with a solid background in Java and Python.
+I'm an experienced Software Engineer and GoLang specialist, with over five years of hands-on experience using it to build a wide range of solutions. My journey in software development began in 2016, starting with C, and has since expanded to encompass languages like Java, Python, and others. My expertise in GoLang extends across various domains, including building resilient, scalable, and distributed systems for high-demand environments such as financial services, IoT solutions, and more. Additionally, I have proficiency in Kubernetes, TypeScript, React, and Next.js, along with a solid background in Java and Python.
 
 ## Skills
 
