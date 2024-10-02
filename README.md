@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Mateus Ramos, a Senior Software Engineer from Brazil!
 
 I'm an experienced Software Engineer with 7 years in the field, specializing in distributed systems, Golang, and Rust. For the past 5 years, I've focused intensively on Golang, Rust, and distributed systems, architecting and building robust, scalable solutions for financial systems and high-demand IoT services. My expertise spans the development of resilient architectures capable of handling millions of transactions and data points in real-time.
+
 My journey in software development began in 2016 with C and IoT, providing me with a strong foundation in low-level programming. This background has been crucial in my proficiency with Rust and Golang, which I utilize for developing high-performance, concurrent systems and tackling complex distributed computing challenges.
 While Golang, Rust, and distributed systems are my primary focus, I'm also well-versed in a broader technology stack including Kubernetes, Java, Python, Node.js, TypeScript, Flutter and React. 
 
