@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Mateus Ramos, a Senior Software Engineer from Brazil!
 
-![Golang-printing-lets-go](https://raw.githubusercontent.com/devmateusramos/img/main/go-wpp.png)
+I'm an experienced Software Engineer with 7 years in the field, specializing in distributed systems, Golang, and Rust. For the past 5 years, I've focused intensively on Golang, Rust, and distributed systems, architecting and building robust, scalable solutions for financial systems and high-demand IoT services. My expertise spans the development of resilient architectures capable of handling millions of transactions and data points in real-time.
+My journey in software development began in 2016 with C and IoT, providing me with a strong foundation in low-level programming. This background has been crucial in my proficiency with Rust and Golang, which I utilize for developing high-performance, concurrent systems and tackling complex distributed computing challenges.
+While Golang, Rust, and distributed systems are my primary focus, I'm also well-versed in a broader technology stack including Kubernetes, Java, Python, Node.js, TypeScript, Flutter, React, and Next.js. This diverse skill set allows me to approach complex problems from multiple angles and seamlessly integrate various technologies in large-scale distributed environments.
+Throughout my career, I've consistently delivered high-performance, scalable solutions that can handle the demands of modern, data-intensive applications in fintech and IoT sectors. My experience encompasses not just coding, but also system design, performance optimization, and the implementation of best practices in distributed systems development for mission-critical applications.
 
-I'm an experienced Software Engineer and GoLang specialist, with over five years of hands-on experience using it to build a wide range of solutions. My journey in software development began in 2016, starting with C and IOT, and has since expanded to encompass languages like Java, Python, and others. My expertise in GoLang extends across various domains, including building resilient, scalable, and distributed systems for high-demand environments such as financial services, IoT solutions, and more. Additionally, I have proficiency and a solid background in Kubernetes, TypeScript, Java, Rust, Node.js, Python, Flutter, React and Next.js.
 
 ## Skills
 
