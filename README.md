@@ -2,8 +2,7 @@
 
 I'm an experienced Software Engineer with 7 years in the field, specializing in distributed systems, Golang, and Rust. For the past 5 years, I've focused intensively on Golang, Rust, and distributed systems, architecting and building robust, scalable solutions for financial systems and high-demand IoT services. My expertise spans the development of resilient architectures capable of handling millions of transactions and data points in real-time.
 My journey in software development began in 2016 with C and IoT, providing me with a strong foundation in low-level programming. This background has been crucial in my proficiency with Rust and Golang, which I utilize for developing high-performance, concurrent systems and tackling complex distributed computing challenges.
-While Golang, Rust, and distributed systems are my primary focus, I'm also well-versed in a broader technology stack including Kubernetes, Java, Python, Node.js, TypeScript, Flutter, React, and Next.js. This diverse skill set allows me to approach complex problems from multiple angles and seamlessly integrate various technologies in large-scale distributed environments.
-Throughout my career, I've consistently delivered high-performance, scalable solutions that can handle the demands of modern, data-intensive applications in fintech and IoT sectors. My experience encompasses not just coding, but also system design, performance optimization, and the implementation of best practices in distributed systems development for mission-critical applications.
+While Golang, Rust, and distributed systems are my primary focus, I'm also well-versed in a broader technology stack including Kubernetes, Java, Python, Node.js, TypeScript, Flutter and React. 
 
 
 ## Skills
