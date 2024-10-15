@@ -1,15 +1,14 @@
 # Hi there! 👋 I'm Mateus Ramos, a Software Engineer specialized in Distributed Systems
 
-I'm an experienced Software Engineer with 7 years in the field, specializing in distributed systems, Golang, and Rust. For the past 5 years, I've focused intensively on Golang, Rust, and distributed systems, architecting and building robust, scalable solutions for financial systems and high-demand IoT services. My expertise spans the development of resilient architectures capable of handling millions of transactions and data points in real-time.
+I'm an experienced Software Engineer with 7 years in the field, specializing in Distributed Systems, Golang, Zig and C. For the past 5 years, I've focused intensively on Golang, C, Zig and Distributed Systems, architecting and building robust, scalable solutions for financial systems and high-demand IoT services. My expertise spans the development of resilient architectures capable of handling millions of transactions and data points in real-time.
 
-My journey in software development began in 2016 with C and IoT, providing me with a strong foundation in low-level programming. This background has been crucial in my proficiency with Rust and Golang, which I utilize for developing high-performance, concurrent systems and tackling complex distributed computing challenges.
-While Golang, Rust, and distributed systems are my primary focus, I'm also well-versed in a broader technology stack including Kubernetes, Java, Python, Node.js, TypeScript, Flutter and React. 
+My journey in software development began in 2016 with C and IoT, providing me with a strong foundation in low-level programming. This background has been crucial in my proficiency with Golang, which I utilize for developing high-performance, concurrent systems and tackling complex distributed computing challenges.
+While Golang, Zig, C and Distributed Systems are my primary focus, I'm also well-versed in a broader technology stack including Kubernetes, Rust, Java, Python, Node.js, TypeScript, Flutter and React. 
 
 
 ## Skills
 
 - ![Go logo](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-- ![Rust logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 - ![Kubernetes logo](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 - ![AWS logo](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - ![TypeScript logo](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,6 +17,7 @@ While Golang, Rust, and distributed systems are my primary focus, I'm also well-
 - ![Next logo](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 - ![JavaScript logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Nodejs logo](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Rust logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 - ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Flutter logo](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
