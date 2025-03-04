@@ -1,4 +1,4 @@
-# Hi there! I'm Mateus Ramos, a Senior Software Engineer specialized in Distributed Systems, GoLang, Rust and Flutter
+### Hi there! I'm Mateus Ramos, a Senior Software Engineer specialized in Distributed Systems, GoLang, Rust and Flutter
 
 I’ve been passionate about creating real-world value through technology ever since I began coding in 2014. Starting off with C for IoT solutions, I’ve grown into building robust systems using Go, Rust, Kubernetes, and Flutter. Throughout my journey, I’ve designed resilient architectures that power scalable, high-performance solutions across mobile, backend, and distributed environments.
 
